@@ -1,11 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
-import EmailForm from './emailForm/EmailForm'
+import EmailForm from './shared/emailForm/EmailForm'
+import AboutPage from './aboutPage/AboutPage'
 
 function App() {
   return (
     <div className="App">
-      <EmailForm/>
+	<AboutPage/>
+        <EmailForm/>
     </div>
   );
 }
