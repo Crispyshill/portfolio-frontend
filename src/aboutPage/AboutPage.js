@@ -1,6 +1,6 @@
 import Navigation from '../shared/Navigation'
 
-export default function(){
+export default function AboutPage(){
 	return (
 		<div>
 			<Navigation/>

@@ -1,4 +1,4 @@
-export default function(){
+export default function EmailForm(){
 	return(
 		<div className="email-form-container">
 			<span>Email Form: </span>
