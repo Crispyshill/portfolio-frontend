@@ -4,6 +4,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import EmailForm from './shared/emailForm/EmailForm'
 import AboutPage from './aboutPage/AboutPage'
 import Navigation from './shared/Navigation'
+import './App.css'
 
 export default function App() {
   return (
