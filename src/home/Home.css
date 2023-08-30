@@ -1,0 +1,20 @@
+.tiger-banner{
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	opacity: 1;
+	z-index: 2;
+}
+
+.text-overlay{
+	position: relative;
+       z-index: 1;
+	padding: 5px;
+       color: #FFFFFF;
+       font-weight: bold;
+
+}
+.tiger-banner-container{
+position: relative;
+}
