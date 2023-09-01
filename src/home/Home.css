@@ -1,16 +1,15 @@
 .tiger-banner{
 	width: 100%;
 	position: absolute;
-	top: 0;
-	left: 0;
 	z-index: 0;
 }
 
 .text-overlay{
+	display: block;
 	position: relative;
        z-index: 1;
 	padding: 5px;
-	top: 90%;
+	bottom: 10%;
        color: #FFFFFF;
        font-weight: bold;
 
