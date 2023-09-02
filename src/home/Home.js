@@ -9,7 +9,7 @@ export default function Home(){
 		          <img src={tigerBanner} alt="tiger banner" className="tiger"/>
 
 	<div className='text-overlay'>	
-			<span>Megan Hillsberry</span>
+			<h1>Megan Hillsberry</h1>
 		<span>Bringing your world into focus</span>
 	</div>
 		</div>
